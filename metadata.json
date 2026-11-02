@@ -1,0 +1,7 @@
+{
+  "name": "Yayasan Catur Sakti - Margatiga, Lampung Timur",
+  "description": "Website Resmi Yayasan Catur Sakti Margatiga, menaungi SMP Catur Sakti dan SMA Catur Sakti Margatiga. Membangun Generasi Cerdas, Berkarakter, dan Berprestasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
